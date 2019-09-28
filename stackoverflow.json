@@ -1,0 +1,1258 @@
+[
+    {
+        "title": "Extracting a coordinate from a python list of tuples",
+        "url": "https://stackoverflow.com/questions/53493173/extracting-a-coordinate-from-a-python-list-of-tuples",
+        "answer": "0",
+        "view": "6",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "list",
+            "tuples"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 05:17:03Z",
+        "duration": "1 min ago",
+        "username": "Shrey Joshi",
+        "userurl": "https://stackoverflow.com/users/10643571/shrey-joshi",
+        "reputation": "11",
+        "silver": 0,
+        "bronze": "3",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/list",
+            "https://stackoverflow.com/questions/tagged/tuples"
+        ]
+    },
+    {
+        "title": "plese tell me dropbox python api code for oauth2",
+        "url": "https://stackoverflow.com/questions/53493167/plese-tell-me-dropbox-python-api-code-for-oauth2",
+        "answer": "0",
+        "view": "6",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "linux",
+            "api",
+            "dropbox"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 05:16:06Z",
+        "duration": "2 mins ago",
+        "username": "TOTAL TECH TT",
+        "userurl": "https://stackoverflow.com/users/9552517/total-tech-tt",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/linux",
+            "https://stackoverflow.com/questions/tagged/api",
+            "https://stackoverflow.com/questions/tagged/dropbox"
+        ]
+    },
+    {
+        "title": "Translate Vim keybinding string `<C-Z>` into its ordinal `ord('^Z')` in Python",
+        "url": "https://stackoverflow.com/questions/53493143/translate-vim-keybinding-string-c-z-into-its-ordinal-ordz-in-python",
+        "answer": "0",
+        "view": "6",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "vim"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 05:13:18Z",
+        "duration": "5 mins ago",
+        "username": "intelfx",
+        "userurl": "https://stackoverflow.com/users/857932/intelfx",
+        "reputation": "911",
+        "silver": "8",
+        "bronze": "28",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/vim"
+        ]
+    },
+    {
+        "title": "How to read links with id and write in output file in python",
+        "url": "https://stackoverflow.com/questions/53493139/how-to-read-links-with-id-and-write-in-output-file-in-python",
+        "answer": "0",
+        "view": "6",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "python-3.x",
+            "pandas",
+            "beautifulsoup"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 05:13:04Z",
+        "duration": "5 mins ago",
+        "username": "user10600066",
+        "userurl": "https://stackoverflow.com/users/10600066/user10600066",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/python-3.x",
+            "https://stackoverflow.com/questions/tagged/pandas",
+            "https://stackoverflow.com/questions/tagged/beautifulsoup"
+        ]
+    },
+    {
+        "title": "google appengine incapable of performing the requested operation",
+        "url": "https://stackoverflow.com/questions/53493137/google-appengine-incapable-of-performing-the-requested-operation",
+        "answer": "0",
+        "view": "4",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "google-app-engine",
+            "pip",
+            "firebase-admin"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 05:12:58Z",
+        "duration": "5 mins ago",
+        "username": "Jaskaran Singh",
+        "userurl": "https://stackoverflow.com/users/10561364/jaskaran-singh",
+        "reputation": "11",
+        "silver": 0,
+        "bronze": "2",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/google-app-engine",
+            "https://stackoverflow.com/questions/tagged/pip",
+            "https://stackoverflow.com/questions/tagged/firebase-admin"
+        ]
+    },
+    {
+        "title": "Real Time Notifications in django",
+        "url": "https://stackoverflow.com/questions/53493126/real-time-notifications-in-django",
+        "answer": "0",
+        "view": "8",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "django",
+            "django-channels"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 05:12:06Z",
+        "duration": "6 mins ago",
+        "username": "Mohit Harshan",
+        "userurl": "https://stackoverflow.com/users/9312327/mohit-harshan",
+        "reputation": "44",
+        "silver": 0,
+        "bronze": "8",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/django",
+            "https://stackoverflow.com/questions/tagged/django-channels"
+        ]
+    },
+    {
+        "title": "map and filter function on array of lists",
+        "url": "https://stackoverflow.com/questions/53493058/map-and-filter-function-on-array-of-lists",
+        "answer": "2",
+        "view": "20",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "mapping"
+        ],
+        "vote": "1",
+        "time": "2018-11-27 05:04:04Z",
+        "duration": "14 mins ago",
+        "username": "Luís Costa",
+        "userurl": "https://stackoverflow.com/users/7432953/lu%c3%ads-costa",
+        "reputation": "316",
+        "silver": "2",
+        "bronze": "14",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/mapping"
+        ]
+    },
+    {
+        "title": "Loading text from file in python",
+        "url": "https://stackoverflow.com/questions/53493053/loading-text-from-file-in-python",
+        "answer": "0",
+        "view": "17",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "file"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 05:03:15Z",
+        "duration": "15 mins ago",
+        "username": "travisp4",
+        "userurl": "https://stackoverflow.com/users/10709084/travisp4",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/file"
+        ]
+    },
+    {
+        "title": "Any elegant solution for finding compound noun-adjective pairs from sentence by using Spacy?",
+        "url": "https://stackoverflow.com/questions/53493052/any-elegant-solution-for-finding-compound-noun-adjective-pairs-from-sentence-by",
+        "answer": "0",
+        "view": "9",
+        "gold": "1",
+        "tagnames": [
+            "python",
+            "sentiment-analysis",
+            "spacy"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 05:03:11Z",
+        "duration": "15 mins ago",
+        "username": "Jerry",
+        "userurl": "https://stackoverflow.com/users/7114383/jerry",
+        "reputation": "78",
+        "silver": "2",
+        "bronze": "12",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/sentiment-analysis",
+            "https://stackoverflow.com/questions/tagged/spacy"
+        ]
+    },
+    {
+        "title": "What is pure tuple shape in python?",
+        "url": "https://stackoverflow.com/questions/53493046/what-is-pure-tuple-shape-in-python",
+        "answer": "0",
+        "view": "17",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "python-3.x",
+            "tuples",
+            "iterable-unpacking"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 05:02:52Z",
+        "duration": "15 mins ago",
+        "username": "Mostafa rezaie",
+        "userurl": "https://stackoverflow.com/users/10364419/mostafa-rezaie",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": "1",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/python-3.x",
+            "https://stackoverflow.com/questions/tagged/tuples",
+            "https://stackoverflow.com/questions/tagged/iterable-unpacking"
+        ]
+    },
+    {
+        "title": "What is an Ai? How to program Ai?What is tensorFlow? [on hold]",
+        "url": "https://stackoverflow.com/questions/53492995/what-is-an-ai-how-to-program-aiwhat-is-tensorflow",
+        "answer": "1",
+        "view": "24",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "python-3.x",
+            "tensorflow",
+            "machine-learning",
+            "artificial-intelligence"
+        ],
+        "vote": "-3",
+        "time": "2018-11-27 04:57:24Z",
+        "duration": "21 mins ago",
+        "username": "Nishant Bhandari",
+        "userurl": "https://stackoverflow.com/users/10420283/nishant-bhandari",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/python-3.x",
+            "https://stackoverflow.com/questions/tagged/tensorflow",
+            "https://stackoverflow.com/questions/tagged/machine-learning",
+            "https://stackoverflow.com/questions/tagged/artificial-intelligence"
+        ]
+    },
+    {
+        "title": "Keras Model takes long to converge",
+        "url": "https://stackoverflow.com/questions/53492970/keras-model-takes-long-to-converge",
+        "answer": "0",
+        "view": "10",
+        "gold": "1",
+        "tagnames": [
+            "python",
+            "tensorflow",
+            "machine-learning",
+            "keras",
+            "neural-network"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:53:53Z",
+        "duration": "24 mins ago",
+        "username": "Eliyah",
+        "userurl": "https://stackoverflow.com/users/4780863/eliyah",
+        "reputation": "273",
+        "silver": "5",
+        "bronze": "24",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/tensorflow",
+            "https://stackoverflow.com/questions/tagged/machine-learning",
+            "https://stackoverflow.com/questions/tagged/keras",
+            "https://stackoverflow.com/questions/tagged/neural-network"
+        ]
+    },
+    {
+        "title": "Python Windows Registry: Display List of Profiles",
+        "url": "https://stackoverflow.com/questions/53492959/python-windows-registry-display-list-of-profiles",
+        "answer": "0",
+        "view": "12",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "windows"
+        ],
+        "vote": "3",
+        "time": "2018-11-27 04:52:55Z",
+        "duration": "25 mins ago",
+        "username": "randem_a_b_c",
+        "userurl": "https://stackoverflow.com/users/10709633/randem-a-b-c",
+        "reputation": "16",
+        "silver": 0,
+        "bronze": "1",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/windows"
+        ]
+    },
+    {
+        "title": "Getting different loss when evaluating the training set in lstm model using keras",
+        "url": "https://stackoverflow.com/questions/53492918/getting-different-loss-when-evaluating-the-training-set-in-lstm-model-using-kera",
+        "answer": "0",
+        "view": "6",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "keras",
+            "lstm"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:46:32Z",
+        "duration": "32 mins ago",
+        "username": "Suman",
+        "userurl": "https://stackoverflow.com/users/6425786/suman",
+        "reputation": "19",
+        "silver": 0,
+        "bronze": "6",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/keras",
+            "https://stackoverflow.com/questions/tagged/lstm"
+        ]
+    },
+    {
+        "title": "Python sort runs in list",
+        "url": "https://stackoverflow.com/questions/53492902/python-sort-runs-in-list",
+        "answer": "1",
+        "view": "39",
+        "gold": 0,
+        "tagnames": [
+            "python"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:43:30Z",
+        "duration": "35 mins ago",
+        "username": "Ben B",
+        "userurl": "https://stackoverflow.com/users/10624504/ben-b",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": "2",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python"
+        ]
+    },
+    {
+        "title": "why doesnt this regex search within a list via a variable work",
+        "url": "https://stackoverflow.com/questions/53492898/why-doesnt-this-regex-search-within-a-list-via-a-variable-work",
+        "answer": "0",
+        "view": "16",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "regex",
+            "python-3.x"
+        ],
+        "vote": "1",
+        "time": "2018-11-27 04:43:03Z",
+        "duration": "35 mins ago",
+        "username": "Oscalation",
+        "userurl": "https://stackoverflow.com/users/1921778/oscalation",
+        "reputation": "80",
+        "silver": 0,
+        "bronze": "6",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/regex",
+            "https://stackoverflow.com/questions/tagged/python-3.x"
+        ]
+    },
+    {
+        "title": "Python: I/O operation on closed file",
+        "url": "https://stackoverflow.com/questions/53492892/python-i-o-operation-on-closed-file",
+        "answer": "1",
+        "view": "11",
+        "gold": 0,
+        "tagnames": [
+            "python"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:42:18Z",
+        "duration": "36 mins ago",
+        "username": "Alex",
+        "userurl": "https://stackoverflow.com/users/9658789/alex",
+        "reputation": "16",
+        "silver": 0,
+        "bronze": "1",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python"
+        ]
+    },
+    {
+        "title": "Default children plugins on custom plugin",
+        "url": "https://stackoverflow.com/questions/53492855/default-children-plugins-on-custom-plugin",
+        "answer": "0",
+        "view": "6",
+        "gold": "1",
+        "tagnames": [
+            "python",
+            "django",
+            "django-cms"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:36:40Z",
+        "duration": "42 mins ago",
+        "username": "Rafael López Martínez",
+        "userurl": "https://stackoverflow.com/users/7655348/rafael-l%c3%b3pez-mart%c3%adnez",
+        "reputation": "1,635",
+        "silver": "3",
+        "bronze": "16",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/django",
+            "https://stackoverflow.com/questions/tagged/django-cms"
+        ]
+    },
+    {
+        "title": "Finding Sum of Variables in Python",
+        "url": "https://stackoverflow.com/questions/53492848/finding-sum-of-variables-in-python",
+        "answer": "3",
+        "view": "44",
+        "gold": 0,
+        "tagnames": [
+            "python"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:35:51Z",
+        "duration": "42 mins ago",
+        "username": "Teenbookhoarder",
+        "userurl": "https://stackoverflow.com/users/9179058/teenbookhoarder",
+        "reputation": "5",
+        "silver": 0,
+        "bronze": "1",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python"
+        ]
+    },
+    {
+        "title": "How do I extract specific product information from Twitter text? [on hold]",
+        "url": "https://stackoverflow.com/questions/53492826/how-do-i-extract-specific-product-information-from-twitter-text",
+        "answer": "0",
+        "view": "29",
+        "gold": 0,
+        "tagnames": [
+            "python"
+        ],
+        "vote": "-2",
+        "time": "2018-11-27 04:33:54Z",
+        "duration": "44 mins ago",
+        "username": "zhen",
+        "userurl": "https://stackoverflow.com/users/10709593/zhen",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": "1",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python"
+        ]
+    },
+    {
+        "title": "How to print block after 5 numbers without adding a new variable?",
+        "url": "https://stackoverflow.com/questions/53492812/how-to-print-block-after-5-numbers-without-adding-a-new-variable",
+        "answer": "2",
+        "view": "19",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "for-loop",
+            "enumerate"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:32:42Z",
+        "duration": "46 mins ago",
+        "username": "Dhruv",
+        "userurl": "https://stackoverflow.com/users/10709573/dhruv",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/for-loop",
+            "https://stackoverflow.com/questions/tagged/enumerate"
+        ]
+    },
+    {
+        "title": "Why does method “isspace” accept non-space characters in conditional statement?",
+        "url": "https://stackoverflow.com/questions/53492811/why-does-method-isspace-accept-non-space-characters-in-conditional-statement",
+        "answer": "0",
+        "view": "11",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "python-3.5"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:32:42Z",
+        "duration": "46 mins ago",
+        "username": "brunshte",
+        "userurl": "https://stackoverflow.com/users/9850734/brunshte",
+        "reputation": "16",
+        "silver": 0,
+        "bronze": "5",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/python-3.5"
+        ]
+    },
+    {
+        "title": "Reading Excel Macro",
+        "url": "https://stackoverflow.com/questions/53492752/reading-excel-macro",
+        "answer": "0",
+        "view": "12",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "excel",
+            "vba",
+            "pandas",
+            "excel-vba"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:27:03Z",
+        "duration": "51 mins ago",
+        "username": "diwakar g",
+        "userurl": "https://stackoverflow.com/users/7052680/diwakar-g",
+        "reputation": "18",
+        "silver": 0,
+        "bronze": "3",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/excel",
+            "https://stackoverflow.com/questions/tagged/vba",
+            "https://stackoverflow.com/questions/tagged/pandas",
+            "https://stackoverflow.com/questions/tagged/excel-vba"
+        ]
+    },
+    {
+        "title": "Python: writing to memory in a single operation",
+        "url": "https://stackoverflow.com/questions/53492716/python-writing-to-memory-in-a-single-operation",
+        "answer": "1",
+        "view": "25",
+        "gold": "6",
+        "tagnames": [
+            "python",
+            "struct",
+            "fpga",
+            "mmap",
+            "memoryview"
+        ],
+        "vote": "1",
+        "time": "2018-11-27 04:21:46Z",
+        "duration": "57 mins ago",
+        "username": "meowsqueak",
+        "userurl": "https://stackoverflow.com/users/143397/meowsqueak",
+        "reputation": "4,727",
+        "silver": "40",
+        "bronze": "57",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/struct",
+            "https://stackoverflow.com/questions/tagged/fpga",
+            "https://stackoverflow.com/questions/tagged/mmap",
+            "https://stackoverflow.com/questions/tagged/memoryview"
+        ]
+    },
+    {
+        "title": "Converting float32 to bit-equivalent int32",
+        "url": "https://stackoverflow.com/questions/53492710/converting-float32-to-bit-equivalent-int32",
+        "answer": "0",
+        "view": "18",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "image",
+            "types",
+            "binary",
+            "type-conversion"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:21:07Z",
+        "duration": "57 mins ago",
+        "username": "Grant Petty",
+        "userurl": "https://stackoverflow.com/users/1895996/grant-petty",
+        "reputation": "246",
+        "silver": "1",
+        "bronze": "12",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/image",
+            "https://stackoverflow.com/questions/tagged/types",
+            "https://stackoverflow.com/questions/tagged/binary",
+            "https://stackoverflow.com/questions/tagged/type-conversion"
+        ]
+    },
+    {
+        "title": "Dimensions must be equal, but are 1 and 2 for 'model_53/sequential_48/dense_142/MatMul' (op: 'MatMul') with input shapes: [2,1], [2,75]",
+        "url": "https://stackoverflow.com/questions/53492703/dimensions-must-be-equal-but-are-1-and-2-for-model-53-sequential-48-dense-142",
+        "answer": "0",
+        "view": "7",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "tensorflow",
+            "keras"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:20:24Z",
+        "duration": "58 mins ago",
+        "username": "user10709568",
+        "userurl": "https://stackoverflow.com/users/10709568/user10709568",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/tensorflow",
+            "https://stackoverflow.com/questions/tagged/keras"
+        ]
+    },
+    {
+        "title": "Python: Creating a dataframe of closing stock prices from a dictionary",
+        "url": "https://stackoverflow.com/questions/53492694/python-creating-a-dataframe-of-closing-stock-prices-from-a-dictionary",
+        "answer": "1",
+        "view": "27",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "dictionary",
+            "dataframe"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:19:07Z",
+        "duration": "59 mins ago",
+        "username": "we2beans",
+        "userurl": "https://stackoverflow.com/users/10262962/we2beans",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": "1",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/dictionary",
+            "https://stackoverflow.com/questions/tagged/dataframe"
+        ]
+    },
+    {
+        "title": "How to use python variables inside a SPARQL ontology query?",
+        "url": "https://stackoverflow.com/questions/53492632/how-to-use-python-variables-inside-a-sparql-ontology-query",
+        "answer": "0",
+        "view": "6",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "variables",
+            "sparql",
+            "ontology"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:11:23Z",
+        "duration": "1 hour ago",
+        "username": "Daniel",
+        "userurl": "https://stackoverflow.com/users/9290208/daniel",
+        "reputation": "8",
+        "silver": 0,
+        "bronze": "3",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/variables",
+            "https://stackoverflow.com/questions/tagged/sparql",
+            "https://stackoverflow.com/questions/tagged/ontology"
+        ]
+    },
+    {
+        "title": "Access nested JSON values using Python",
+        "url": "https://stackoverflow.com/questions/53492603/access-nested-json-values-using-python",
+        "answer": "1",
+        "view": "29",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "json",
+            "pandas"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:07:55Z",
+        "duration": "1 hour ago",
+        "username": "Hayden",
+        "userurl": "https://stackoverflow.com/users/9976350/hayden",
+        "reputation": "29",
+        "silver": 0,
+        "bronze": "5",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/json",
+            "https://stackoverflow.com/questions/tagged/pandas"
+        ]
+    },
+    {
+        "title": "train chat bot by appending data to json file",
+        "url": "https://stackoverflow.com/questions/53492597/train-chat-bot-by-appending-data-to-json-file",
+        "answer": "0",
+        "view": "6",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "tensorflow",
+            "artificial-intelligence",
+            "chatbot"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:06:51Z",
+        "duration": "1 hour ago",
+        "username": "neha ameer",
+        "userurl": "https://stackoverflow.com/users/10579153/neha-ameer",
+        "reputation": "7",
+        "silver": 0,
+        "bronze": "4",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/tensorflow",
+            "https://stackoverflow.com/questions/tagged/artificial-intelligence",
+            "https://stackoverflow.com/questions/tagged/chatbot"
+        ]
+    },
+    {
+        "title": "How to download the jpeg in python by Http socket programming? I just download the jpeg but the format is wrong",
+        "url": "https://stackoverflow.com/questions/53492595/how-to-download-the-jpeg-in-python-by-http-socket-programming-i-just-download-t",
+        "answer": "0",
+        "view": "12",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "sockets"
+        ],
+        "vote": "-4",
+        "time": "2018-11-27 04:06:50Z",
+        "duration": "1 hour ago",
+        "username": "Lang Tuo",
+        "userurl": "https://stackoverflow.com/users/10503467/lang-tuo",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/sockets"
+        ]
+    },
+    {
+        "title": "flask - Dynamically change jinja2 variable based on regex lookup table in database?",
+        "url": "https://stackoverflow.com/questions/53492566/flask-dynamically-change-jinja2-variable-based-on-regex-lookup-table-in-databa",
+        "answer": "0",
+        "view": "9",
+        "gold": 0,
+        "tagnames": [
+            "javascript",
+            "python",
+            "regex",
+            "flask"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 04:03:33Z",
+        "duration": "1 hour ago",
+        "username": "RZ L",
+        "userurl": "https://stackoverflow.com/users/10709462/rz-l",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/javascript",
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/regex",
+            "https://stackoverflow.com/questions/tagged/flask"
+        ]
+    },
+    {
+        "title": "Group by string column and apply function based on unique value in list array?",
+        "url": "https://stackoverflow.com/questions/53492541/group-by-string-column-and-apply-function-based-on-unique-value-in-list-array",
+        "answer": "0",
+        "view": "39",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "python-3.x",
+            "dataframe",
+            "lambda",
+            "pandas-groupby"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:59:40Z",
+        "duration": "1 hour ago",
+        "username": "Chipmunkafy",
+        "userurl": "https://stackoverflow.com/users/10582772/chipmunkafy",
+        "reputation": "90",
+        "silver": 0,
+        "bronze": "9",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/python-3.x",
+            "https://stackoverflow.com/questions/tagged/dataframe",
+            "https://stackoverflow.com/questions/tagged/lambda",
+            "https://stackoverflow.com/questions/tagged/pandas-groupby"
+        ]
+    },
+    {
+        "title": "Seaborn plot multiple bar plots on top of each other, but show the smallest bar",
+        "url": "https://stackoverflow.com/questions/53492534/seaborn-plot-multiple-bar-plots-on-top-of-each-other-but-show-the-smallest-bar",
+        "answer": "0",
+        "view": "10",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "matplotlib",
+            "seaborn"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:58:26Z",
+        "duration": "1 hour ago",
+        "username": "Flyrom",
+        "userurl": "https://stackoverflow.com/users/7481592/flyrom",
+        "reputation": "17",
+        "silver": 0,
+        "bronze": "3",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/matplotlib",
+            "https://stackoverflow.com/questions/tagged/seaborn"
+        ]
+    },
+    {
+        "title": "Find plateau in Numpy array",
+        "url": "https://stackoverflow.com/questions/53492508/find-plateau-in-numpy-array",
+        "answer": "1",
+        "view": "25",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "numpy",
+            "signals"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:55:01Z",
+        "duration": "1 hour ago",
+        "username": "emilaz",
+        "userurl": "https://stackoverflow.com/users/8921867/emilaz",
+        "reputation": "70",
+        "silver": 0,
+        "bronze": "8",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/numpy",
+            "https://stackoverflow.com/questions/tagged/signals"
+        ]
+    },
+    {
+        "title": "Google sheets APIv4 json to pandas df",
+        "url": "https://stackoverflow.com/questions/53492502/google-sheets-apiv4-json-to-pandas-df",
+        "answer": "0",
+        "view": "9",
+        "gold": "5",
+        "tagnames": [
+            "python",
+            "pandas"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:54:29Z",
+        "duration": "1 hour ago",
+        "username": "jason",
+        "userurl": "https://stackoverflow.com/users/1744744/jason",
+        "reputation": "154",
+        "silver": "34",
+        "bronze": "85",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/pandas"
+        ]
+    },
+    {
+        "title": "Interger truncate",
+        "url": "https://stackoverflow.com/questions/53492494/interger-truncate",
+        "answer": "0",
+        "view": "31",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "pandas",
+            "numpy",
+            "datetime"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:53:21Z",
+        "duration": "1 hour ago",
+        "username": "Esteban G. Gutierrez",
+        "userurl": "https://stackoverflow.com/users/4482392/esteban-g-gutierrez",
+        "reputation": "42",
+        "silver": "1",
+        "bronze": "11",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/pandas",
+            "https://stackoverflow.com/questions/tagged/numpy",
+            "https://stackoverflow.com/questions/tagged/datetime"
+        ]
+    },
+    {
+        "title": "SOAP API: Errors to send request using seep",
+        "url": "https://stackoverflow.com/questions/53492493/soap-api-errors-to-send-request-using-seep",
+        "answer": "0",
+        "view": "5",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "api",
+            "soap",
+            "zeep"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:53:11Z",
+        "duration": "1 hour ago",
+        "username": "Dong Li",
+        "userurl": "https://stackoverflow.com/users/10709474/dong-li",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/api",
+            "https://stackoverflow.com/questions/tagged/soap",
+            "https://stackoverflow.com/questions/tagged/zeep"
+        ]
+    },
+    {
+        "title": "Successful and unsuccessful callback using tenacity",
+        "url": "https://stackoverflow.com/questions/53492463/successful-and-unsuccessful-callback-using-tenacity",
+        "answer": "0",
+        "view": "11",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "python-2.7"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:50:09Z",
+        "duration": "1 hour ago",
+        "username": "Zhiyuan Chen",
+        "userurl": "https://stackoverflow.com/users/8791650/zhiyuan-chen",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/python-2.7"
+        ]
+    },
+    {
+        "title": "Using lxml xpath to parse xml file",
+        "url": "https://stackoverflow.com/questions/53492424/using-lxml-xpath-to-parse-xml-file",
+        "answer": "1",
+        "view": "19",
+        "gold": "1",
+        "tagnames": [
+            "python",
+            "xml",
+            "lxml"
+        ],
+        "vote": "2",
+        "time": "2018-11-27 03:45:14Z",
+        "duration": "1 hour ago",
+        "username": "Tester",
+        "userurl": "https://stackoverflow.com/users/2597259/tester",
+        "reputation": "388",
+        "silver": "7",
+        "bronze": "18",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/xml",
+            "https://stackoverflow.com/questions/tagged/lxml"
+        ]
+    },
+    {
+        "title": "Pandas how to calculate mean without current line",
+        "url": "https://stackoverflow.com/questions/53492423/pandas-how-to-calculate-mean-without-current-line",
+        "answer": "1",
+        "view": "27",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "pandas"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:45:07Z",
+        "duration": "1 hour ago",
+        "username": "xxyao",
+        "userurl": "https://stackoverflow.com/users/9287711/xxyao",
+        "reputation": "96",
+        "silver": 0,
+        "bronze": "7",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/pandas"
+        ]
+    },
+    {
+        "title": "Django POST request from Postman",
+        "url": "https://stackoverflow.com/questions/53492411/django-post-request-from-postman",
+        "answer": "1",
+        "view": "15",
+        "gold": "1",
+        "tagnames": [
+            "python",
+            "django",
+            "post",
+            "django-rest-framework",
+            "request"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:43:27Z",
+        "duration": "1 hour ago",
+        "username": "Scuido",
+        "userurl": "https://stackoverflow.com/users/2168573/scuido",
+        "reputation": "17",
+        "silver": "2",
+        "bronze": "8",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/django",
+            "https://stackoverflow.com/questions/tagged/post",
+            "https://stackoverflow.com/questions/tagged/django-rest-framework",
+            "https://stackoverflow.com/questions/tagged/request"
+        ]
+    },
+    {
+        "title": "How to rename a list but keep its contents the same",
+        "url": "https://stackoverflow.com/questions/53492402/how-to-rename-a-list-but-keep-its-contents-the-same",
+        "answer": "0",
+        "view": "31",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "list",
+            "rename"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:42:16Z",
+        "duration": "1 hour ago",
+        "username": "SadDuck",
+        "userurl": "https://stackoverflow.com/users/10682827/sadduck",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": "1",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/list",
+            "https://stackoverflow.com/questions/tagged/rename"
+        ]
+    },
+    {
+        "title": "Count number of Midi inputs received using Python",
+        "url": "https://stackoverflow.com/questions/53492395/count-number-of-midi-inputs-received-using-python",
+        "answer": "1",
+        "view": "18",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "count",
+            "counter",
+            "midi"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:41:39Z",
+        "duration": "1 hour ago",
+        "username": "NewbCake",
+        "userurl": "https://stackoverflow.com/users/1377409/newbcake",
+        "reputation": "117",
+        "silver": "2",
+        "bronze": "13",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/count",
+            "https://stackoverflow.com/questions/tagged/counter",
+            "https://stackoverflow.com/questions/tagged/midi"
+        ]
+    },
+    {
+        "title": "How would I create a base conversion calculator in python?",
+        "url": "https://stackoverflow.com/questions/53492389/how-would-i-create-a-base-conversion-calculator-in-python",
+        "answer": "0",
+        "view": "24",
+        "gold": 0,
+        "tagnames": [
+            "python"
+        ],
+        "vote": "-6",
+        "time": "2018-11-27 03:40:52Z",
+        "duration": "1 hour ago",
+        "username": "User",
+        "userurl": "https://stackoverflow.com/users/10549519/user",
+        "reputation": "1",
+        "silver": 0,
+        "bronze": 0,
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python"
+        ]
+    },
+    {
+        "title": "Accessing dictionary within Dataframes",
+        "url": "https://stackoverflow.com/questions/53492365/accessing-dictionary-within-dataframes",
+        "answer": "2",
+        "view": "17",
+        "gold": 0,
+        "tagnames": [
+            "python"
+        ],
+        "vote": "1",
+        "time": "2018-11-27 03:37:31Z",
+        "duration": "1 hour ago",
+        "username": "FaNoosh",
+        "userurl": "https://stackoverflow.com/users/10709445/fanoosh",
+        "reputation": "6",
+        "silver": 0,
+        "bronze": "1",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python"
+        ]
+    },
+    {
+        "title": "Returning a dictionary consisting of various user id matching them to their appropriate username, follower count and following",
+        "url": "https://stackoverflow.com/questions/53492361/returning-a-dictionary-consisting-of-various-user-id-matching-them-to-their-appr",
+        "answer": "0",
+        "view": "21",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "python-3.x",
+            "python-2.7"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:36:17Z",
+        "duration": "1 hour ago",
+        "username": "NAFS",
+        "userurl": "https://stackoverflow.com/users/10634539/nafs",
+        "reputation": "8",
+        "silver": 0,
+        "bronze": "2",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/python-3.x",
+            "https://stackoverflow.com/questions/tagged/python-2.7"
+        ]
+    },
+    {
+        "title": "how to solve ambiguous time error in time-series analysis with pandas",
+        "url": "https://stackoverflow.com/questions/53492344/how-to-solve-ambiguous-time-error-in-time-series-analysis-with-pandas",
+        "answer": "0",
+        "view": "15",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "pandas",
+            "time-series",
+            "dst"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:34:26Z",
+        "duration": "1 hour ago",
+        "username": "Vince W.",
+        "userurl": "https://stackoverflow.com/users/4067676/vince-w",
+        "reputation": "1,195",
+        "silver": "7",
+        "bronze": "27",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/pandas",
+            "https://stackoverflow.com/questions/tagged/time-series",
+            "https://stackoverflow.com/questions/tagged/dst"
+        ]
+    },
+    {
+        "title": "Python: iterate through two datetimes hourly",
+        "url": "https://stackoverflow.com/questions/53492340/python-iterate-through-two-datetimes-hourly",
+        "answer": "1",
+        "view": "45",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "datetime"
+        ],
+        "vote": "2",
+        "time": "2018-11-27 03:33:54Z",
+        "duration": "1 hour ago",
+        "username": "Steve Power",
+        "userurl": "https://stackoverflow.com/users/10424268/steve-power",
+        "reputation": "21",
+        "silver": 0,
+        "bronze": "4",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/datetime"
+        ]
+    },
+    {
+        "title": "scrapy insert into database",
+        "url": "https://stackoverflow.com/questions/53492263/scrapy-insert-into-database",
+        "answer": "1",
+        "view": "16",
+        "gold": 0,
+        "tagnames": [
+            "python",
+            "scrapy",
+            "database-performance"
+        ],
+        "vote": "0",
+        "time": "2018-11-27 03:22:54Z",
+        "duration": "1 hour ago",
+        "username": "user3381431",
+        "userurl": "https://stackoverflow.com/users/3381431/user3381431",
+        "reputation": "18",
+        "silver": 0,
+        "bronze": "6",
+        "tagurls": [
+            "https://stackoverflow.com/questions/tagged/python",
+            "https://stackoverflow.com/questions/tagged/scrapy",
+            "https://stackoverflow.com/questions/tagged/database-performance"
+        ]
+    }
+]
