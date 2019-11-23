@@ -1,5 +1,5 @@
 print ("hello world")
-print ("测试")
+print ("测试12")
 
 
 
